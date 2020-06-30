@@ -16,7 +16,7 @@
     "styled",
     "styled-components"
   ],
-  "author": "Michael Auderer",
+  "author": "Luke Shay <https://github.com/LukeShay>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/michaelauderer/stencil-styled-components/issues"
@@ -27,6 +27,6 @@
   },
   "dependencies": {},
   "peerDependencies": {
-    "@stencil/core": "^1.1.7"
+    "@stencil/core": "^1.15.0"
   }
 }
